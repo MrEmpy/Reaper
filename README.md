@@ -37,6 +37,17 @@ Usage: C:\Windows\Temp\Reaper.exe [OPTIONS] [VALUES]
       Reaper.exe kp 1337
 ```
 
+## Demonstration
+
+![](assets/poc.png)
+
+## Install
+
+You can compile it directly from the source code or [download it already compiled](releases/). You will need Visual Studio 2022 to compile.
+
+**Note:** The executable and driver must be in the same directory.
+
+
 ## Buy me a coffee?
 
 <a href="https://livepix.gg/mrempy" target="_blank">
