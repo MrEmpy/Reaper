@@ -43,7 +43,7 @@ Usage: C:\Windows\Temp\Reaper.exe [OPTIONS] [VALUES]
 
 ## Install
 
-You can compile it directly from the source code or [download it already compiled](releases/). You will need Visual Studio 2022 to compile.
+You can compile it directly from the source code or [download it already compiled](https://github.com/MrEmpy/Reaper/releases/). You will need Visual Studio 2022 to compile.
 
 **Note:** The executable and driver must be in the same directory.
 
