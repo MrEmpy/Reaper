@@ -1,6 +1,6 @@
 <h1 align="center">「💀」 About Reaper</h1>
 
-<p align="center"><img src="assets/image.png" leigth="512" width="512"/></p>
+<p align="center"><img src="assets/image.png" leigth="312" width="312"/></p>
 
 Reaper is a proof-of-concept designed to exploit BYOVD (Bring Your Own Vulnerable Driver) driver vulnerability. This malicious technique involves inserting a legitimate, vulnerable driver into a target system, which allows attackers to exploit the driver to perform malicious actions.
 
