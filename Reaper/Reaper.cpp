@@ -30,7 +30,7 @@ VOID Help(char* progname) {
       kp,                   kill process
 
     Values:
-      PROCESSID,             process id to suspend/kill
+      PROCESSID,            process id to suspend/kill
 
     Examples:
       Reaper.exe sp 1337
