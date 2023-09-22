@@ -171,6 +171,10 @@ int main(int argc, char* argv[])
     int pid = atoi(argv[2]);
 
     HANDLE procHandle = OpenProcess(PROCESS_ALL_ACCESS, FALSE, pid);
+    if (procHandle == NULL) {
+        printf("[-] There was a problem trying to open the process handle: %ld\n", GetLastError());
+        return 1;
+    }
 
     WIN32_FIND_DATAA driverData;
     char driverFullPath[MAX_PATH];
