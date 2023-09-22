@@ -41,14 +41,6 @@ Usage: C:\Windows\Temp\Reaper.exe [OPTIONS] [VALUES]
 
 ![](assets/poc.png)
 
-## Kill Process 
-
-![](assets/kp_poc.gif)
-
-## Suspend Process
-
-![](assets/sp_poc.gif)
-
 ## Install
 
 You can compile it directly from the source code or [download it already compiled](https://github.com/MrEmpy/Reaper/releases/). You will need Visual Studio 2022 to compile.
