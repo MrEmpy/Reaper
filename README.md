@@ -6,7 +6,10 @@ Reaper is a hacking tool designed to exploit BYOVD (Bring Your Own Vulnerable Dr
 
 Reaper was specifically designed to exploit the vulnerability present in the kprocesshacker.sys driver in version 2.8.0.0, taking advantage of its weaknesses to gain privileged access and control over the target system.
 
-Additionally, Reaper also offers the functionality to terminate processes and suspend them, allowing attackers to take additional steps to achieve their malicious goals. This tool demonstrates the evolution of cyber attack tactics and represents a significant challenge to endpoint security.
+## Features
+
+* Kill process
+* Suspend process
 
 ## Help
 
